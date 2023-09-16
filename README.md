@@ -4,7 +4,7 @@ This is a simple calculator built on React
 
 ## ***Demo Link***
 
-[Go here!] (https://calculator-app-f4.netlify.app/)
+[Go here!](https://calculator-app-f4.netlify.app/)
 
 ## ***Preview:***
 
